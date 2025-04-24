@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Committed to Daily practice 11/13/2024<br>🎓 Bachelor's in Computer Engineering and currently pursuing Master's in Computer Science (Graduating 2025)<br>📚 I'm currently learning python, and will expand my horizons much further!<br>🎯 Goals: Pivot my career to software engineering!<br>🎲 Fun fact: Also studying Japanese!</p>
+<p align="left">🎓 Bachelor's in Computer Engineering<br>Master of Computer Science<br>📚 I'm currently coding with python, html, css, java<br>🎯 Goals: Continuous improvement regardless of the level I reach.<br>🎲 Fun fact: Also studying Japanese!</p>
 
 ###
 
