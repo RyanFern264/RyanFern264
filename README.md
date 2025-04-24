@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Bachelor's in Computer Engineering<br>Master of Computer Science<br>📚 I'm currently coding with python, html, css, java<br>🎯 Goals: Continuous improvement regardless of the level I reach.<br>🎲 Fun fact: Also studying Japanese!</p>
+<p align="left">🎓 Bachelor's in Computer Engineering<br>🎓 Master of Computer Science<br>📚 I'm currently coding with python, html, css, java<br>🎯 Goals: Continuous improvement regardless of the level I reach.<br>🎲 Fun fact: Also studying Japanese!</p>
 
 ###
 
